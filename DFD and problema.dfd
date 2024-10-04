@@ -1,0 +1,40 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+5
+1
+1
+E
+5
+1
+1
+V
+7
+0
+1
+18
+E>=60 and V>100000
+4
+1
+16
+'SU VALOR ES' ,V
+13
+6
+2
+1
+D
+6
+V*0.05
+5
+TOTAL
+3
+V-D
+4
+1
+32
+'TU TOTAL A PAGAR ES DE' , TOTAL
+13
+1
