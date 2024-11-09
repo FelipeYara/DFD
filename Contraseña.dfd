@@ -1,0 +1,81 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+2
+1
+S
+7
+1000000
+1
+C
+1
+0
+9
+1
+8
+S>100000
+4
+1
+17
+'DIGITE SU CLAVE'
+5
+1
+1
+C
+7
+0
+1
+6
+C=8522
+4
+1
+29
+'LA CONTRASEÑA ES INCORRECTA'
+13
+4
+1
+22
+'CUANTO DESEA RETIRAR'
+5
+1
+1
+V
+7
+1
+1
+10
+S< 100000 
+4
+1
+23
+'NO PUEDES RETIRAR MAS'
+13
+6
+1
+1
+S
+3
+S-V
+7
+0
+1
+3
+V<S
+4
+1
+34
+'NO TIENES ESA CANTIDAD DE DINERO'
+13
+13
+13
+13
+11
+4
+1
+1
+S
+1
